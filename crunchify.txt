@@ -1,0 +1,1 @@
+{"people":50,"money":50,"army":50,"religion":50}
